@@ -1,4 +1,4 @@
-#!/Users/pedropujol/Desktop/Proyectos/gestor-tareas-flask/venv/bin/python3.12
+#!/Users/pedropujol/Desktop/Proyectos/gestor-tareas-flask/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
